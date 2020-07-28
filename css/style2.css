@@ -1,0 +1,278 @@
+/*Covid alert*/
+
+.alertContainer{
+    display: inline-block;
+    width: 100%;
+    height: 38px;
+    background-color: #f1cd6f;
+    margin-top: -10px;
+}
+
+.alert{
+    height: 24px;
+    width: 24px;
+    display: inline-block;
+    margin-left: 55px;
+    padding: 8px 0px 8px 0px;
+}
+
+.covid{
+    display: inline-block;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 24px;
+    margin: auto;
+    margin-bottom: 0px;
+    position: absolute;
+    color: #000000;
+    padding: 8px 0px 8px 29px;
+}
+
+/* Header */
+.header{
+    height: 168px;
+    width: 100%;
+    display: inline-block;
+    position: fixed;
+    background-color: white;
+   }
+
+/* Logo */
+.logo{
+    margin-top: -7px;
+    margin-left: 55px;
+    height: 131px;
+    width: 264px;
+    float: left;
+    }
+
+.logoImg{
+    width: 264px;
+    height: 82px;
+    padding: 22.5px 0px 22.5px 0px;
+    position: absolute;
+}
+
+/* Donate Call to action */
+.searchDonate{
+    height: 129px;
+    width: auto;
+    float: right;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px 45px;
+    }
+
+.donate{
+    display: inline-block;
+    color: white;
+    
+}
+
+.eyeglass{
+    height: 20.77px;
+    width: 20.77px;
+    
+}
+
+.heart{
+    height: 16px;
+    width: 16px;
+    display: inline-block;
+    padding-left: 11px;
+    
+
+}
+
+.donateHeart{
+    width: 117.6px;
+    height: 42px;
+    background-color: #9b4c9b;
+    font-size: 16px;
+    border-radius: 50px;
+    margin-left: 42px;
+    
+}
+
+.callButton>li{
+      list-style-type: none;
+    }
+
+/* Navigation */
+
+.nav{
+    display: inline-block;
+    list-style-type: none;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 30px;
+    padding: 0px 0px 0px 122px;
+
+}
+
+.navButtons>li{
+    display: inline;
+}
+
+.carrot{
+    width: 8px;
+    height: 8px;
+    padding-left: 0px;
+    padding-right: 42px;
+}
+
+/* Hero Banner */
+
+.banner{
+    height: 601px;
+    width: 100%;
+    margin-top: 160px;
+    display: inline-block;
+    background-image: url(../images/Hero.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    
+
+       
+}
+
+.heroBanner{
+/* Rectangle 925 */
+
+    width: 998px;
+    height: 122px;
+    background: linear-gradient(90deg, rgba(214, 214, 214, 0.57) 1.6%, rgba(170, 170, 170, 0.15) 13.43%, rgba(154, 154, 154, 0.3) 83.04%, rgba(156, 156, 156, 0.58) 95.79%);
+    border-radius: 50px;
+    margin: 209px 269px;
+}
+
+.quote{
+    width: 998px;
+    height: 122px;
+    position: inherit;   
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 16px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+}
+
+.footerContainer{
+    width: 100%;
+    height: 352px;
+    background-color: #cfe5e9;
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    flex: 1 0 auto;
+}
+
+.footer{
+    flex-shrink: 0;
+}
+
+.tagIRS{
+    /* Postpartum Support Center is a fiscally sponsored project of MarinLink, a California nonprofit corporation exempt from federal tax under section 501(c)(3) of the Internal Revenue Service #20-0879422. */
+
+    width: 1179px;
+    height: 56px;
+    /*left: 164px;
+    top: 3187px;*/
+
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 115.2%;
+    /* or 28px */
+
+    color: #256A75;
+    margin: 44px 165px;
+}
+
+.footerRight{
+    float: right; 
+    margin: -50px 120px;
+    }
+
+.marinLink{
+    height: 119px;
+    width: 111px;
+    position: relative;
+    float: inherit;
+   
+}
+
+.footerLeft{
+    width: auto;
+    height: 44px;
+    float: left;
+    margin: 56px 0 86px 165px;
+}
+
+.followUs{
+    /* Follow Us */
+
+/*position: absolute;*/
+left: 11.46%;
+right: 77.64%;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 24px;
+
+color: #FFFFFF;
+display: inline-block;
+}
+
+.insta{
+    display: inline-block;
+    height: 27px;
+    width: 27px;
+    margin-left: 38px;
+}
+
+.link{
+    display: inline-block;
+    height: 27px;
+    width: 27px;
+    margin-left: 11px;
+}
+
+.fb{
+    display: inline-block;
+    height: 27px;
+    width: 27px;
+    margin-left: 11px;
+}
+
+.footerBottom{
+    height: auto;
+    width: 100%;
+    display: inline-block;
+    margin-top: -100px;
+    }
+
+.footerLinks>li{
+    list-style-type: none;
+    display: inline;
+    padding: 0px;
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #858585;
+    padding-left: 120px;
+}

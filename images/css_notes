@@ -1,0 +1,3698 @@
+/* HOME PAGE 21 */
+
+position: relative;
+width: 1440px;
+height: 3495px;
+
+background: #FFFFFF;
+
+
+/* Component 12 */
+
+position: absolute;
+width: 141px;
+height: 36px;
+left: 119px;
+top: 3376px;
+
+
+
+/* Ellipse 206 */
+
+position: absolute;
+left: 0%;
+right: 74.47%;
+top: 0%;
+bottom: 0%;
+
+background: #858585;
+
+
+/* LOGO */
+
+position: absolute;
+left: 29.79%;
+right: -61.7%;
+top: 22.22%;
+bottom: 13.89%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+
+color: #858585;
+
+
+
+/* Rectangle 861 */
+
+position: absolute;
+width: 1448px;
+height: 352px;
+left: 0px;
+top: 3143px;
+
+background: #CFE5E9;
+
+
+/* Follow Us */
+
+position: absolute;
+left: 11.46%;
+right: 77.64%;
+top: 95.28%;
+bottom: 4.18%;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Instagram/black */
+
+position: absolute;
+left: 21.6%;
+right: 76.53%;
+top: 95.28%;
+bottom: 3.95%;
+
+
+
+/* Instagram */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Combined-Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Gray 6 */
+background: #F2F2F2;
+
+
+/* Combined-Shape-path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #DADADA;
+
+
+/* Combined-Shape-path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 23.33%;
+bottom: 23.33%;
+
+background: #DADADA;
+
+
+/* Combined-Shape */
+
+position: absolute;
+left: 28.14%;
+right: 28.14%;
+top: 28.13%;
+bottom: 28.15%;
+
+/* Gray 6 */
+background: #F2F2F2;
+
+
+/* Combined-Shape-path */
+
+position: absolute;
+left: 28.14%;
+right: 28.14%;
+top: 28.13%;
+bottom: 28.15%;
+
+background: #DADADA;
+
+
+/* Combined-Shape-path */
+
+position: absolute;
+left: 61.04%;
+right: 32.56%;
+top: 32.57%;
+bottom: 61.03%;
+
+background: #DADADA;
+
+
+/* Combined-Shape-path */
+
+position: absolute;
+left: 36.31%;
+right: 36.31%;
+top: 36.31%;
+bottom: 36.31%;
+
+background: #DADADA;
+
+
+/* Shape */
+
+position: absolute;
+left: 41.11%;
+right: 41.11%;
+top: 41.11%;
+bottom: 41.11%;
+
+/* Gray 6 */
+background: #F2F2F2;
+
+
+/* Board of Directors */
+
+position: absolute;
+width: 163px;
+height: 19px;
+left: 114px;
+top: 3442px;
+
+font-family: Proza Libre;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+
+color: #858585;
+
+
+
+/* Partners */
+
+position: absolute;
+width: 101px;
+height: 18px;
+left: 966px;
+top: 3444px;
+
+font-family: Proza Libre;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+
+color: #858585;
+
+
+
+/* Privacy Policy */
+
+position: absolute;
+width: 101px;
+height: 18px;
+left: 336px;
+top: 3443px;
+
+font-family: Proza Libre;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+
+color: #858585;
+
+
+
+/* Support Services */
+
+position: absolute;
+width: 290px;
+height: 30px;
+left: 759px;
+top: 3440px;
+
+font-family: Proza Libre;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+
+color: #858585;
+
+
+
+/* Postpartum Support Center is a fiscally sponsored project of MarinLink, a California nonprofit corporation exempt from federal tax under section 501(c)(3) of the Internal Revenue Service #20-0879422. */
+
+position: absolute;
+width: 1179px;
+height: 56px;
+left: 164px;
+top: 3187px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 115.2%;
+/* or 28px */
+
+color: #256A75;
+
+
+
+/* LinkedIN/black */
+
+position: absolute;
+left: 24.24%;
+right: 73.82%;
+top: 95.28%;
+bottom: 3.95%;
+
+
+
+/* LinkedIN */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Combined-Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Gray 6 */
+background: #F2F2F2;
+
+
+/* Combined-Shape-path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #DADADA;
+
+
+/* Combined-Shape-path */
+
+position: absolute;
+left: 24%;
+right: 64.67%;
+top: 41.41%;
+bottom: 24.54%;
+
+background: #DADADA;
+
+
+/* Combined-Shape-path */
+
+position: absolute;
+left: 23.33%;
+right: 63.92%;
+top: 25%;
+bottom: 63.23%;
+
+background: #DADADA;
+
+
+/* Combined-Shape-path */
+
+position: absolute;
+left: 41.61%;
+right: 23.8%;
+top: 40.61%;
+bottom: 24.54%;
+
+background: #DADADA;
+
+
+/* Facebook/black */
+
+position: absolute;
+left: 26.94%;
+right: 71.18%;
+top: 95.28%;
+bottom: 3.95%;
+
+
+
+/* Frame */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.61%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.61%;
+
+/* Gray 6 */
+background: #F2F2F2;
+
+
+/* Communite resources */
+
+position: absolute;
+width: 179px;
+height: 17px;
+left: 544px;
+top: 3444px;
+
+font-family: Proza Libre;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+
+color: #858585;
+
+
+
+/* Language */
+
+position: absolute;
+width: 290px;
+height: 34px;
+left: 1174px;
+top: 3443px;
+
+font-family: Proza Libre;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+
+color: #858585;
+
+
+
+/* Union */
+
+position: absolute;
+width: 202.27px;
+height: 73px;
+left: 760.23px;
+top: 2949px;
+
+background: #C8ADD6;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 528 */
+
+position: absolute;
+width: 202.27px;
+height: 73px;
+left: 760.23px;
+top: 2949px;
+
+background: #C4C4C4;
+border-radius: 200px;
+
+
+/* Group 824 */
+
+position: absolute;
+width: 118.44px;
+height: 41px;
+left: 806.38px;
+top: 2965px;
+
+
+
+/* Subscribe */
+
+position: absolute;
+width: 118.44px;
+height: 41px;
+left: 806.38px;
+top: 2965px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 903 */
+
+position: absolute;
+width: 214px;
+height: 215px;
+left: 180px;
+top: 1124px;
+
+
+
+/* 59597 */
+
+position: absolute;
+width: 136px;
+height: 136px;
+left: 203px;
+top: 1124px;
+
+background: url(07.png);
+
+
+/* Who We Are */
+
+position: absolute;
+width: 214px;
+height: 36px;
+left: 180px;
+top: 1303px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Practical and emotional support are importnat in protecting against perinatal mental health disorders. Take this survey to see how your social support system measures up. */
+
+position: absolute;
+width: 367px;
+height: 179px;
+left: 103px;
+top: 1384px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 110.2%;
+/* or 26px */
+
+color: #4B4D52;
+
+
+
+/* Group 901 */
+
+position: absolute;
+width: 224px;
+height: 215px;
+left: 1005px;
+top: 1124px;
+
+
+
+/* 445 */
+
+position: absolute;
+width: 145px;
+height: 134.43px;
+left: 1021px;
+top: 1124px;
+
+background: url(06.png);
+
+
+/* How We Help */
+
+position: absolute;
+width: 224px;
+height: 36px;
+left: 1005px;
+top: 1303px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Through our programs, we strive to give New Mom the help they need in a supportive community. We have multiple programs and volunteer opportunities so each individual or group can select the right fit for them. */
+
+position: absolute;
+width: 367px;
+height: 227px;
+left: 933px;
+top: 1384px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 110.2%;
+/* or 26px */
+
+color: #4B4D52;
+
+
+
+/* Group 902 */
+
+position: absolute;
+width: 286px;
+height: 216px;
+left: 562px;
+top: 1123px;
+
+
+
+/* 59596 */
+
+position: absolute;
+width: 88px;
+height: 135px;
+left: 671px;
+top: 1123px;
+
+background: url(04.png);
+
+
+/* Why PP Support */
+
+position: absolute;
+width: 286px;
+height: 36px;
+left: 562px;
+top: 1303px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Many women enter motherhood without a support system in place. New mothers run an increased risk of developing Postpartum Depression and Anxiety through exposure to chronic stress, decreased social support, and the fast pace of modern life */
+
+position: absolute;
+width: 367px;
+height: 222px;
+left: 521px;
+top: 1384px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 110.2%;
+/* or 26px */
+
+color: #4B4D52;
+
+
+
+/* image 107 */
+
+position: absolute;
+width: 1440px;
+height: 601px;
+left: 0px;
+top: 243px;
+
+background: url(image.png);
+
+
+/* Rectangle 922 */
+
+position: absolute;
+width: 1440px;
+height: 220px;
+left: 0px;
+top: 844px;
+
+background: #C8ADD6;
+
+
+/* Rectangle 923 */
+
+position: absolute;
+width: 1448px;
+height: 1034px;
+left: -4px;
+top: 1730px;
+
+background: #D8DCED;
+
+
+/* Group 828 */
+
+position: absolute;
+width: 182px;
+height: 48px;
+left: 450px;
+top: 2683px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 182px;
+height: 48px;
+left: 450px;
+top: 2683px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.3);
+box-sizing: border-box;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 22 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 450px;
+top: 2683px;
+
+background: #C4C4C4;
+
+
+/* Ellipse 23 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 584px;
+top: 2683px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 528 */
+
+position: absolute;
+width: 136px;
+height: 48px;
+left: 474px;
+top: 2683px;
+
+background: #C4C4C4;
+
+
+/* Learn More */
+
+position: absolute;
+width: 136px;
+height: 48px;
+left: 473px;
+top: 2683px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 898 */
+
+position: absolute;
+width: 182px;
+height: 48px;
+left: 1102px;
+top: 2683px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 182px;
+height: 48px;
+left: 1102px;
+top: 2683px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.3);
+box-sizing: border-box;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 22 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1102px;
+top: 2683px;
+
+background: #C4C4C4;
+
+
+/* Ellipse 23 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1236px;
+top: 2683px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 528 */
+
+position: absolute;
+width: 136px;
+height: 48px;
+left: 1126px;
+top: 2683px;
+
+background: #C4C4C4;
+
+
+/* Joins Us */
+
+position: absolute;
+width: 136px;
+height: 48px;
+left: 1125px;
+top: 2683px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* hands 1 */
+
+position: absolute;
+width: 476.67px;
+height: 550px;
+left: 159px;
+top: 1769px;
+
+background: url(hands.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 25px;
+
+
+/* Get Involved */
+
+position: absolute;
+width: 211px;
+height: 35px;
+left: 812px;
+top: 2383px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 36px;
+
+color: #000000;
+
+
+
+/* image 118 */
+
+position: absolute;
+width: 475.98px;
+height: 550px;
+left: 812px;
+top: 1769px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 25px;
+
+
+/* Support Groups */
+
+position: absolute;
+width: 256px;
+height: 36px;
+left: 159px;
+top: 2382px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Subscribe to our community */
+
+position: absolute;
+width: 451px;
+height: 36px;
+left: 159px;
+top: 2868px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* You have the power to make a difference and change lives. Do you want to make a difference? Join our nonprofit as we use innovative ways to show people they matter. */
+
+position: absolute;
+width: 476px;
+height: 188px;
+left: 812px;
+top: 2448px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 120.2%;
+/* or 29px */
+letter-spacing: 0.1em;
+
+color: #000000;
+
+
+
+/* Postpartum Support Center is focused on providing programs and services that focus on the well being of mothers, fathers and their support teams while promoting awareness and prevention of Perinatal Mental Health Disorders. */
+
+position: absolute;
+width: 474px;
+height: 184px;
+left: 160px;
+top: 2448px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+letter-spacing: 0.1em;
+
+color: #000000;
+
+
+
+/* Ellipse 230 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 667px;
+top: 765px;
+
+background: rgba(0, 0, 0, 0.3);
+box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 231 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 710px;
+top: 765px;
+
+background: #FFFFFF;
+box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 232 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 753px;
+top: 765px;
+
+background: #FFFFFF;
+box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 925 */
+
+position: absolute;
+width: 998px;
+height: 122px;
+left: 269px;
+top: 452px;
+
+background: linear-gradient(90deg, rgba(214, 214, 214, 0.57) 1.6%, rgba(170, 170, 170, 0.15) 13.43%, rgba(154, 154, 154, 0.3) 83.04%, rgba(156, 156, 156, 0.58) 95.79%);
+border-radius: 50px;
+
+
+/* The only thing more exhausting than being depressed is pretending that you’re not. */
+
+position: absolute;
+width: 946px;
+height: 96px;
+left: 292px;
+top: 470px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 48px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 926 */
+
+position: absolute;
+width: 564px;
+height: 70px;
+left: 195px;
+top: 2951px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* marina 1 */
+
+position: absolute;
+width: 111px;
+height: 119px;
+left: 1205px;
+top: 3239px;
+
+background: url(marina.png);
+
+
+/* Group 704 */
+
+position: absolute;
+width: 77px;
+height: 77px;
+left: 120px;
+top: 896px;
+
+
+
+/* Ellipse 28 */
+
+position: absolute;
+width: 77px;
+height: 77px;
+left: 120px;
+top: 896px;
+
+background: #FFFFFF;
+
+
+/* ion:chatbubble-ellipses-outline */
+
+position: absolute;
+width: 59.23px;
+height: 59.23px;
+left: 128.89px;
+top: 904.88px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.37%;
+right: 9.38%;
+top: 9.38%;
+bottom: 9.37%;
+
+border: 3px solid #9A4B9A;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 43.74%;
+bottom: 43.76%;
+
+background: #9A4B9A;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.75%;
+right: 43.75%;
+top: 43.74%;
+bottom: 43.76%;
+
+background: #9A4B9A;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 25%;
+top: 43.74%;
+bottom: 43.76%;
+
+background: #9A4B9A;
+
+
+/* You are not alone! Click here to chat with us. We will respond as soon as we can. */
+
+position: absolute;
+width: 266px;
+height: 107px;
+left: 205px;
+top: 909px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* info@postpartumsc.org */
+
+position: absolute;
+width: 387px;
+height: 114px;
+left: 722px;
+top: 954px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 24/7 support line: 415-326-3623 */
+
+position: absolute;
+width: 386px;
+height: 112px;
+left: 722px;
+top: 908px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Group 906 */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 620px;
+top: 900px;
+
+
+
+/* Ellipse 27 */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 620px;
+top: 900px;
+
+background: #FFFFFF;
+
+
+/* ri:customer-service-2-line */
+
+position: absolute;
+width: 60.58px;
+height: 60.58px;
+left: 628px;
+top: 908px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.17%;
+
+background: #9A4B9A;
+
+
+/* Group 708 */
+
+position: absolute;
+width: 20.77px;
+height: 20.77px;
+left: 1179px;
+top: 140px;
+
+
+
+/* Search */
+
+position: absolute;
+width: 20.77px;
+height: 20.77px;
+left: 1179px;
+top: calc(50% - 20.77px/2 - 1597.12px);
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 81.88%;
+right: 16.68%;
+top: 4.01%;
+bottom: 95.4%;
+
+background: rgba(0, 0, 0, 0.36);
+
+
+/* Path */
+
+position: absolute;
+left: 81.99%;
+right: 17.11%;
+top: 4.05%;
+bottom: 95.57%;
+
+background: rgba(0, 0, 0, 0.36);
+
+
+/* Toolbar – Avatar */
+
+position: absolute;
+height: 36px;
+left: 0px;
+right: 0px;
+top: 40px;
+
+background: #FFFFFF;
+
+
+/* Toolbar Container */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* White / Background */
+background: #FFFFFF;
+box-shadow: 0px 1px 0px #EFF1F4;
+
+
+/* Icon – More Actions */
+
+position: absolute;
+width: 28px;
+height: 28px;
+right: 8px;
+top: calc(50% - 28px/2);
+
+
+
+/* Container: Hover */
+
+position: absolute;
+visibility: hidden;
+width: 28px;
+height: 28px;
+left: calc(50% - 28px/2);
+top: calc(50% - 28px/2);
+
+/* Dark / Ghost */
+background: #EFF1F4;
+border-radius: 32px;
+
+
+/* Union */
+
+position: absolute;
+width: 3px;
+height: 13px;
+left: 12.5px;
+top: 7.5px;
+
+/* Dark / Primary */
+background: #4B4D52;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 3px;
+height: 3px;
+left: 12.5px;
+top: 7.5px;
+
+/* Dark / Primary */
+background: #4B4D52;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 3px;
+height: 3px;
+left: 12.5px;
+top: 12.5px;
+
+/* Dark / Primary */
+background: #4B4D52;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 3px;
+height: 3px;
+left: 12.5px;
+top: 17.5px;
+
+/* Dark / Primary */
+background: #4B4D52;
+
+
+/* Avatar */
+
+position: absolute;
+width: 20px;
+height: 20px;
+right: 44px;
+top: calc(50% - 20px/2);
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+background: url(Grey Shirt_@optimized.jpg), url(Ghost.jpg);
+
+
+/* Search Field */
+
+position: absolute;
+left: 112px;
+right: 80px;
+top: 4px;
+bottom: 4px;
+
+
+
+/* Container */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Dark / Ghost */
+background: #EFF1F4;
+border-radius: 24px;
+
+
+/* Container: Hover */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Dark / Ninja */
+background: #E1E4EB;
+border-radius: 24px;
+
+
+/* Bookmark */
+
+position: absolute;
+width: 36px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Container: Hover */
+
+position: absolute;
+visibility: hidden;
+width: 36px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Dark / Quaternary */
+background: #CED0D6;
+border-radius: 32px;
+
+
+/* Icon – Star - Outlined */
+
+position: absolute;
+width: 16px;
+height: 16px;
+right: 10px;
+top: calc(50% - 16px/2);
+
+
+
+/* Star */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 0px;
+
+/* Dark / Primary */
+border: 1px solid #4B4D52;
+box-sizing: border-box;
+
+
+/* Link */
+
+position: absolute;
+height: 16px;
+left: 36px;
+right: 42px;
+top: calc(50% - 16px/2);
+
+/* Caption 1 / 400 */
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+letter-spacing: 0.02em;
+
+/* Dark / Primary */
+color: #4B4D52;
+
+
+/* Security */
+
+position: absolute;
+width: 36px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Container: Hover */
+
+position: absolute;
+visibility: hidden;
+width: 36px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Dark / Quaternary */
+background: #CED0D6;
+border-radius: 24px;
+
+
+/* Icon – Lock */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 10px;
+top: calc(50% - 16px/2);
+
+
+
+/* Union */
+
+position: absolute;
+width: 8px;
+height: 11px;
+left: 4px;
+top: 2px;
+
+/* Dark / Primary */
+background: #4B4D52;
+
+
+/* Rec */
+
+position: absolute;
+width: 8px;
+height: 7px;
+left: 4px;
+top: 6px;
+
+/* Dark / Primary */
+background: #4B4D52;
+border-radius: 2px;
+
+
+/* Rec */
+
+position: absolute;
+width: 4px;
+height: 3px;
+left: 6px;
+top: 3px;
+
+/* Dark / Primary */
+border: 1px solid #4B4D52;
+border-radius: 2px 2px 0px 0px;
+
+
+/* Icon – Refresh */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 72px;
+top: 4px;
+
+background: #FFFFFF;
+
+
+/* Container: Hover */
+
+position: absolute;
+visibility: hidden;
+width: 28px;
+height: 28px;
+left: calc(50% - 28px/2);
+top: calc(50% - 28px/2);
+
+/* Dark / Ghost */
+background: #EFF1F4;
+
+
+/* Union */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 7px;
+top: 7px;
+
+/* Dark / Primary */
+background: #4B4D52;
+
+
+/* Icon – Next */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 40px;
+top: 4px;
+
+background: #FFFFFF;
+
+
+/* Container: Hover */
+
+position: absolute;
+visibility: hidden;
+width: 28px;
+height: 28px;
+left: calc(50% - 28px/2);
+top: calc(50% - 28px/2);
+
+/* Dark / Ghost */
+background: #EFF1F4;
+
+
+/* Vector */
+
+position: absolute;
+width: 12px;
+height: 11px;
+left: 20px;
+top: 8px;
+
+/* Dark / Tertiary */
+border: 1.5px solid #A9AEB8;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Icon – Previous */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 8px;
+top: 4px;
+
+background: #FFFFFF;
+
+
+/* Container: Hover */
+
+position: absolute;
+visibility: hidden;
+width: 28px;
+height: 28px;
+left: calc(50% - 28px/2);
+top: calc(50% - 28px/2);
+
+/* Dark / Ghost */
+background: #EFF1F4;
+
+
+/* Vector */
+
+position: absolute;
+width: 12px;
+height: 11px;
+left: 8px;
+top: 8px;
+
+/* Dark / Primary */
+border: 1.5px solid #4B4D52;
+
+
+/* Tab Bar */
+
+position: absolute;
+height: 40px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Container */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Dark / Ninja */
+background: #E1E4EB;
+border-radius: 4px 4px 0px 0px;
+
+
+/* Icon – Add */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 328px;
+top: 10px;
+
+
+
+/* Container: Hover */
+
+position: absolute;
+visibility: hidden;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2);
+top: calc(50% - 24px/2);
+
+background: #CED0D6;
+
+
+/* Vector */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: calc(50% - 10px/2);
+top: calc(50% - 10px/2);
+
+/* Dark / Primary */
+border: 2px solid #4B4D52;
+
+
+/* Tab / Unpinned / Selected */
+
+position: absolute;
+width: 240px;
+height: 32px;
+left: 80px;
+top: 8px;
+
+
+
+/* Container */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* White / Background */
+background: #FFFFFF;
+border-radius: 8px 8px 0px 0px;
+
+
+/* Favicon */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 12px;
+top: calc(50% - 16px/2);
+
+
+
+/* PostPartums SC */
+
+position: absolute;
+height: 16px;
+left: 42px;
+right: 22px;
+top: calc(50% - 16px/2 + 3px);
+
+/* Caption 2 / 400 */
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+/* Dark / Primary */
+color: #4B4D52;
+
+
+/* Icon – Close */
+
+position: absolute;
+width: 16px;
+height: 16px;
+right: 6px;
+top: calc(50% - 16px/2);
+
+
+
+/* Container: Hover */
+
+position: absolute;
+visibility: hidden;
+width: 16px;
+height: 16px;
+left: calc(50% - 16px/2);
+top: calc(50% - 16px/2);
+
+/* Dark / Ninja */
+background: #E1E4EB;
+border-radius: 32px;
+
+
+/* Vector */
+
+position: absolute;
+width: 6px;
+height: 6px;
+left: calc(50% - 6px/2);
+top: calc(50% - 6px/2);
+
+/* Dark / Primary */
+border: 1.5px solid #4B4D52;
+
+
+/* Subtract */
+
+position: absolute;
+width: 8px;
+height: 8px;
+right: -8px;
+bottom: 0px;
+
+/* White / Background */
+background: #FFFFFF;
+
+
+/* Subtract */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: -8px;
+bottom: 0px;
+
+/* White / Background */
+background: #FFFFFF;
+
+
+/* Window Controls */
+
+position: absolute;
+width: 80px;
+height: 32px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Icon – Expand */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 54px;
+top: calc(50% - 12px/2);
+
+background: #64C255;
+border: 0.5px solid rgba(0, 0, 0, 0.16);
+box-sizing: border-box;
+
+
+/* Icon – Hide */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 34px;
+top: calc(50% - 12px/2);
+
+background: #FFD171;
+border: 0.5px solid rgba(0, 0, 0, 0.16);
+box-sizing: border-box;
+
+
+/* Icon – Close */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 14px;
+top: calc(50% - 12px/2);
+
+background: #FF796F;
+border: 0.5px solid rgba(0, 0, 0, 0.16);
+box-sizing: border-box;
+
+
+/* Group 699 */
+
+position: absolute;
+width: 124px;
+height: 42px;
+left: 979px;
+top: 169px;
+
+
+
+/* PPSC Newsletter */
+
+position: absolute;
+width: 124px;
+height: 42px;
+left: 979px;
+top: 169px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Union */
+
+position: absolute;
+width: 117.6px;
+height: 42px;
+left: 1242px;
+top: 129px;
+
+background: #9B4C9B;
+
+
+/* Ellipse 22 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 1242px;
+top: 129px;
+
+background: #C4C4C4;
+
+
+/* Ellipse 23 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 1317.6px;
+top: 129px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 528 */
+
+position: absolute;
+width: 77.32px;
+height: 42px;
+left: 1262px;
+top: 129px;
+
+background: #C4C4C4;
+
+
+/* Group 706 */
+
+position: absolute;
+width: 54.72px;
+height: 42px;
+left: 1262.77px;
+top: 129px;
+
+
+
+/* Group 700 */
+
+position: absolute;
+width: 54.72px;
+height: 42px;
+left: 1262.77px;
+top: 129px;
+
+
+
+/* Donate */
+
+position: absolute;
+width: 54.72px;
+height: 42px;
+left: 1262.77px;
+top: 129px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* ant-design:heart-twotone */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1327px;
+top: 142px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.81%;
+right: 7.82%;
+top: 12.21%;
+bottom: 12.21%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.23%;
+right: 15.23%;
+top: 19.63%;
+bottom: 20.43%;
+
+background: #FFFFFF;
+
+
+/* Group 879 */
+
+position: absolute;
+width: 264px;
+height: 82px;
+left: 80px;
+top: 140px;
+
+
+
+/* Rectangle 886 */
+
+position: absolute;
+width: 264px;
+height: 82px;
+left: 80px;
+top: 140px;
+
+background: #FFFFFF;
+
+
+/* image 77 */
+
+position: absolute;
+width: 107.16px;
+height: 82px;
+left: 81.95px;
+top: 140px;
+
+background: url(image.png);
+
+
+/* image 78 */
+
+position: absolute;
+width: 152.44px;
+height: 39.88px;
+left: 188.99px;
+top: 171.12px;
+
+background: url(image.png);
+
+
+/* Group 881 */
+
+position: absolute;
+width: 60px;
+height: 42px;
+left: 459px;
+top: 169px;
+
+
+
+/* Group 694 */
+
+position: absolute;
+width: 53px;
+height: 42px;
+left: 459px;
+top: 169px;
+
+
+
+/* About */
+
+position: absolute;
+width: 53px;
+height: 42px;
+left: 459px;
+top: 169px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* ls:dropdown */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 511px;
+top: 187px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.14%;
+top: 23.94%;
+bottom: 12.25%;
+
+background: #000000;
+
+
+/* Group 882 */
+
+position: absolute;
+width: 135px;
+height: 42px;
+left: 554px;
+top: 169px;
+
+
+
+/* Group 696 */
+
+position: absolute;
+width: 126px;
+height: 42px;
+left: 554px;
+top: 169px;
+
+
+
+/* Support services */
+
+position: absolute;
+width: 126px;
+height: 42px;
+left: 554px;
+top: 169px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* ls:dropdown */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 681px;
+top: 187px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.14%;
+top: 23.94%;
+bottom: 12.25%;
+
+background: #000000;
+
+
+/* Group 883 */
+
+position: absolute;
+width: 103px;
+height: 42px;
+left: 723px;
+top: 169px;
+
+
+
+/* Group 697 */
+
+position: absolute;
+width: 94px;
+height: 42px;
+left: 723px;
+top: 169px;
+
+
+
+/* Get involved */
+
+position: absolute;
+width: 94px;
+height: 42px;
+left: 723px;
+top: 169px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* ls:dropdown */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 818px;
+top: 187px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.14%;
+top: 23.94%;
+bottom: 12.25%;
+
+background: #000000;
+
+
+/* Group 880 */
+
+position: absolute;
+width: 87px;
+height: 42px;
+left: 859px;
+top: 169px;
+
+
+
+/* Group 695 */
+
+position: absolute;
+width: 77px;
+height: 42px;
+left: 859px;
+top: 169px;
+
+
+
+/* Resources */
+
+position: absolute;
+width: 77px;
+height: 42px;
+left: 859px;
+top: 169px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* ls:dropdown */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 938px;
+top: 187px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.14%;
+top: 23.94%;
+bottom: 12.25%;
+
+background: #000000;
+
+
+/* Rectangle 927 */
+
+position: absolute;
+width: 1440px;
+height: 38px;
+left: 0px;
+top: 77px;
+
+background: #F1CD6F;
+
+
+/* Group 908 */
+
+position: absolute;
+visibility: hidden;
+width: 142px;
+height: 190px;
+left: 456px;
+top: 208px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 142px;
+height: 190px;
+left: 456px;
+top: 208px;
+
+background: #FFFFFF;
+box-shadow: 0px -3px 20px rgba(0, 0, 0, 0.3), 0px 3px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Union */
+
+position: absolute;
+width: 142px;
+height: 183.23px;
+left: 456px;
+top: 214.77px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 530 */
+
+position: absolute;
+width: 142px;
+height: 183.23px;
+left: 456px;
+top: 214.77px;
+
+background: #C4C4C4;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 14px;
+height: 9.13px;
+left: 466px;
+top: 208px;
+
+background: #FFFFFF;
+
+
+/* Contact Us */
+
+position: absolute;
+width: 123px;
+height: 46px;
+left: 475px;
+top: 261px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 123px;
+height: 46px;
+left: 475px;
+top: 215px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Advisory Board */
+
+position: absolute;
+width: 123px;
+height: 46px;
+left: 475px;
+top: 307px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Board of directors */
+
+position: absolute;
+width: 125px;
+height: 45px;
+left: 473px;
+top: 353px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 909 */
+
+position: absolute;
+visibility: hidden;
+width: 273px;
+height: 302px;
+left: 533px;
+top: 208px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 273px;
+height: 302px;
+left: 533px;
+top: 208px;
+
+background: #FFFFFF;
+box-shadow: 0px -3px 20px rgba(0, 0, 0, 0.3), 0px 3px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Union */
+
+position: absolute;
+width: 273px;
+height: 295.95px;
+left: 533px;
+top: 214.05px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 530 */
+
+position: absolute;
+width: 273px;
+height: 295.95px;
+left: 533px;
+top: 214.05px;
+
+background: #C4C4C4;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 18.48px;
+height: 9.13px;
+left: 553.63px;
+top: 208px;
+
+background: #FFFFFF;
+
+
+/* Postpartum support groups */
+
+position: absolute;
+width: 253px;
+height: 42px;
+left: 550px;
+top: 257px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Mom to mom Peer Support */
+
+position: absolute;
+width: 253px;
+height: 42px;
+left: 550px;
+top: 215px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* PPD/PPA self screening test */
+
+position: absolute;
+width: 253px;
+height: 42px;
+left: 550px;
+top: 299px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Postpartum social support screening */
+
+position: absolute;
+width: 253px;
+height: 42px;
+left: 551px;
+top: 341px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Call 24/7 support line: 415-326-3623 */
+
+position: absolute;
+width: 253px;
+height: 42px;
+left: 551px;
+top: 383px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Chat Now! */
+
+position: absolute;
+width: 253px;
+height: 42px;
+left: 551px;
+top: 468px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* E-Mail: info@postpartumsc.org */
+
+position: absolute;
+width: 253px;
+height: 42px;
+left: 551px;
+top: 426px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 910 */
+
+position: absolute;
+visibility: hidden;
+width: 154px;
+height: 93px;
+left: 714px;
+top: 209px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 154px;
+height: 93px;
+left: 714px;
+top: 209px;
+
+background: #FFFFFF;
+box-shadow: 0px -3px 20px rgba(0, 0, 0, 0.3), 0px 3px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Union */
+
+position: absolute;
+width: 154px;
+height: 86.47px;
+left: 714px;
+top: 215.53px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 530 */
+
+position: absolute;
+width: 154px;
+height: 86.47px;
+left: 714px;
+top: 215.53px;
+
+background: #C4C4C4;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 14px;
+height: 9.13px;
+left: 724.85px;
+top: 209px;
+
+background: #FFFFFF;
+
+
+/* Volunteers */
+
+position: absolute;
+width: 127px;
+height: 42px;
+left: 732px;
+top: 260px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Donations */
+
+position: absolute;
+width: 127px;
+height: 42px;
+left: 731px;
+top: 218px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* ic:baseline-expand-more */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 803px;
+top: 233px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.79%;
+bottom: 33.33%;
+
+background: #000000;
+
+
+/* ic:baseline-expand-more */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 807px;
+top: 275px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.79%;
+bottom: 33.33%;
+
+background: #000000;
+
+
+/* Group 911 */
+
+position: absolute;
+visibility: hidden;
+width: 268px;
+height: 213px;
+left: 708px;
+top: 208px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 268px;
+height: 213px;
+left: 708px;
+top: 208px;
+
+background: #FFFFFF;
+box-shadow: 0px -3px 20px rgba(0, 0, 0, 0.3), 0px 3px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Union */
+
+position: absolute;
+width: 268px;
+height: 206.47px;
+left: 708px;
+top: 214.53px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 530 */
+
+position: absolute;
+width: 268px;
+height: 206.47px;
+left: 708px;
+top: 214.53px;
+
+background: #C4C4C4;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 14px;
+height: 9.13px;
+left: 726.87px;
+top: 208px;
+
+background: #FFFFFF;
+
+
+/* Helping hands cleaning certificate */
+
+position: absolute;
+width: 234px;
+height: 42px;
+left: 742px;
+top: 253px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* You’ve got this Care packages */
+
+position: absolute;
+width: 234px;
+height: 42px;
+left: 742px;
+top: 295px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Donate! */
+
+position: absolute;
+width: 234px;
+height: 42px;
+left: 742px;
+top: 337px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 884 */
+
+position: absolute;
+width: 133px;
+height: 42px;
+left: 725px;
+top: 217px;
+
+
+
+/* Donations */
+
+position: absolute;
+width: 133px;
+height: 42px;
+left: 725px;
+top: 217px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* ic:baseline-expand-more */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 821px;
+top: 248px;
+
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75%;
+right: -25%;
+top: 64.21%;
+bottom: 4.92%;
+
+background: #000000;
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: -14200%;
+right: 14250%;
+top: 64.21%;
+bottom: 4.92%;
+
+background: #000000;
+transform: rotate(-180deg);
+
+
+/* Group 885 */
+
+position: absolute;
+width: 132px;
+height: 42px;
+left: 725px;
+top: 379px;
+
+
+
+/* Volunteers */
+
+position: absolute;
+width: 132px;
+height: 42px;
+left: 725px;
+top: 379px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* ic:baseline-expand-more */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 813px;
+top: 398px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.79%;
+bottom: 33.33%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 14300%;
+right: -14250%;
+top: 35.79%;
+bottom: 33.33%;
+
+background: #000000;
+
+
+/* Group 912 */
+
+position: absolute;
+visibility: hidden;
+width: 268px;
+height: 181px;
+left: 708px;
+top: 208px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 268px;
+height: 181px;
+left: 708px;
+top: 208px;
+
+background: #FFFFFF;
+box-shadow: 0px -3px 20px rgba(0, 0, 0, 0.3), 0px 3px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Union */
+
+position: absolute;
+width: 268px;
+height: 174.33px;
+left: 708px;
+top: 214.67px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 530 */
+
+position: absolute;
+width: 268px;
+height: 174.33px;
+left: 708px;
+top: 214.67px;
+
+background: #C4C4C4;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 14px;
+height: 9.13px;
+left: 726.87px;
+top: 208px;
+
+background: #FFFFFF;
+
+
+/* ic:baseline-expand-more */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 809px;
+top: 236px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.79%;
+bottom: 33.33%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 14300%;
+right: -14250%;
+top: 35.79%;
+bottom: 33.33%;
+
+background: #000000;
+
+
+/* ic:baseline-expand-more */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 825px;
+top: 290px;
+
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75%;
+right: -25%;
+top: 64.21%;
+bottom: 4.92%;
+
+background: #000000;
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: -14200%;
+right: 14250%;
+top: 64.21%;
+bottom: 4.92%;
+
+background: #000000;
+transform: rotate(-180deg);
+
+
+/* Volunteers */
+
+position: absolute;
+width: 132px;
+height: 42px;
+left: 725px;
+top: 259px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Donations */
+
+position: absolute;
+width: 133px;
+height: 42px;
+left: 725px;
+top: 217px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Team Building */
+
+position: absolute;
+width: 234px;
+height: 42px;
+left: 742px;
+top: 301px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Partners */
+
+position: absolute;
+width: 234px;
+height: 42px;
+left: 742px;
+top: 343px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 913 */
+
+position: absolute;
+visibility: hidden;
+width: 152px;
+height: 260px;
+left: 851px;
+top: 208px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 152px;
+height: 260px;
+left: 851px;
+top: 208px;
+
+background: #FFFFFF;
+box-shadow: 0px -3px 20px rgba(0, 0, 0, 0.3), 0px 3px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Union */
+
+position: absolute;
+width: 152px;
+height: 254.45px;
+left: 851px;
+top: 213.55px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 530 */
+
+position: absolute;
+width: 152px;
+height: 254.45px;
+left: 851px;
+top: 213.55px;
+
+background: #C4C4C4;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 14px;
+height: 7.49px;
+left: 861px;
+top: 208px;
+
+background: #FFFFFF;
+
+
+/* For Fathers */
+
+position: absolute;
+width: 123px;
+height: 42px;
+left: 867px;
+top: 258px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* For Mothers */
+
+position: absolute;
+width: 123px;
+height: 42px;
+left: 867px;
+top: 216px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* For Helpers */
+
+position: absolute;
+width: 123px;
+height: 42px;
+left: 867px;
+top: 300px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* For the workplace */
+
+position: absolute;
+width: 124px;
+height: 42px;
+left: 867px;
+top: 384px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* For Providers */
+
+position: absolute;
+width: 124px;
+height: 42px;
+left: 867px;
+top: 342px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Therapists */
+
+position: absolute;
+width: 124px;
+height: 42px;
+left: 868px;
+top: 426px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 914 */
+
+position: absolute;
+width: 1439px;
+height: 596px;
+left: 1441px;
+top: 246px;
+
+
+
+/* image 146 */
+
+position: absolute;
+width: 1439px;
+height: 596px;
+left: 1441px;
+top: 246px;
+
+background: url(image.png);
+
+
+/* Rectangle 928 */
+
+position: absolute;
+width: 998px;
+height: 122px;
+left: 1661px;
+top: 448px;
+
+background: linear-gradient(90deg, rgba(132, 132, 132, 0.57) 1.6%, rgba(170, 170, 170, 0.15) 13.43%, rgba(154, 154, 154, 0.3) 83.04%, rgba(107, 107, 107, 0.58) 95.79%);
+border-radius: 50px;
+
+
+/* You’re not alone. 24/7 support line: 415-326-3623 */
+
+position: absolute;
+width: 663px;
+height: 96px;
+left: 1826px;
+top: 466px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 48px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 233 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2104px;
+top: 765px;
+
+background: #FFFFFF;
+box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 234 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2144px;
+top: 765px;
+
+background: #C4C4C4;
+box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 235 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2190px;
+top: 765px;
+
+background: #FFFFFF;
+box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+
+
+/* Group 916 */
+
+position: absolute;
+width: 1440px;
+height: 598px;
+left: -1440px;
+top: 246px;
+
+
+
+/* image 147 */
+
+position: absolute;
+width: 1440px;
+height: 598px;
+left: -1440px;
+top: 246px;
+
+background: url(image.png);
+
+
+/* Group 915 */
+
+position: absolute;
+width: 1137px;
+height: 333px;
+left: -1293px;
+top: 456px;
+
+
+
+/* Ellipse 233 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: -821px;
+top: 769px;
+
+background: #FFFFFF;
+box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 234 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: -781px;
+top: 769px;
+
+background: #FFFFFF;
+box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 235 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: -735px;
+top: 769px;
+
+background: rgba(0, 0, 0, 0.3);
+box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 928 */
+
+position: absolute;
+width: 1137px;
+height: 122px;
+left: -1293px;
+top: 456px;
+
+background: linear-gradient(90deg, rgba(214, 214, 214, 0.57) 1.6%, rgba(170, 170, 170, 0.15) 13.43%, rgba(154, 154, 154, 0.3) 83.04%, rgba(156, 156, 156, 0.58) 95.79%);
+border-radius: 50px;
+
+
+/* Need to chat? We are here for you. Click here and we will respond as soon as we can. */
+
+position: absolute;
+width: 1065px;
+height: 96px;
+left: -1255px;
+top: 474px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 48px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Group 920 */
+
+position: absolute;
+width: 1135px;
+height: 38px;
+left: 82px;
+top: 77px;
+
+
+
+/* eva:alert-triangle-fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 82px;
+top: 84px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.22%;
+right: 4.17%;
+top: 8.32%;
+bottom: 12.5%;
+
+background: #BD0707;
+
+
+/* Covid-19 Updates */
+
+position: absolute;
+width: 1091px;
+height: 38px;
+left: 126px;
+top: 77px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
